@@ -19,12 +19,11 @@ preferences, track order history, and expedite the checkout process.
 orders before proceeding to a secure checkout process.
 
 
-The following document outlines the acceptance criteria that need to be considered
-when testing various pages and functionalities in the application, including Login, My
-Account, Account Details, Addresses, and Search. Each page has unique features and
-functionality that require thorough testing to ensure the application functions as
-intended. 
+Tests :
+1. Login 
+2. My Account
+3. Account Details
+4. Addresses
+5. Search
 
-The following items are in scope for testing in this application: the login
-functionality, addresses, and account details from the 'My Account' page, as well
-as the search bar.
+
