@@ -18,11 +18,13 @@ preferences, track order history, and expedite the checkout process.
 orders before proceeding to a secure checkout process.
 
 
-Tests :
+The tests cover the following functionalities :
 1. Login 
 2. My Account
 3. Account Details
 4. Addresses
 5. Search
 
+* The main class is called `UnitTest1.cs`
+* POM classes are : `MyAccount.cs`
 
